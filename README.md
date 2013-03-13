@@ -1,4 +1,6 @@
 ubuntu-sdk-doc
 ==============
 
-ubuntu sdk 文档分析
+ubuntu sdk 文档
+
+采用MarkDown编写
